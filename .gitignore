@@ -1,0 +1,6 @@
+.claude/
+results_*.txt
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
